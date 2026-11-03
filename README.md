@@ -1,7 +1,7 @@
 # Baseline Phenotypes and Short-Term Respiratory Outcomes After Hydrocortisone in Ventilated Extremely Preterm Infants
 
 <p align="center">
-  <img src = "images/graphical_abstract.png" width="100%">
+  <img src = "images/graphical-abstract-2.png" width="100%">
 </p>
 
 
