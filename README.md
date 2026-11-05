@@ -18,3 +18,9 @@ To identify clinically relevant baseline phenotypes in ventilator-dependent pret
 | 2 | 344 | Infants with intermediate maturity and moderate respiratory disease |
 | 3 | 216 | Most immature infants and was distinguished by lower Apgar scores and substantial ventilatory support requirements |
 | 4 | 141 | Most mature infants with the lowest baseline respiratory severity and highest birth weights |
+
+
+## Baseline Characteristics by Derived Phenotype
+| Baseline characteristics | Overall  (n=760) | Phenotype 1  (n=59) | Phenotype 2  (n=344) | Phenotype 3  (n=216) | Phenotype 4  (n=141) |
+|--------------------------|------------------|---------------------|----------------------|----------------------|----------------------|
+| Gestational age, weeks | 25.0 (24.0,26.0) | 26.0 (25.0,27.0) | 24.0 (24.0,25.0) | 24.0 (23.0,25.0) | 27.0 (26.0,27.0) |
