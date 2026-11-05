@@ -36,3 +36,8 @@ To identify clinically relevant baseline phenotypes in ventilator-dependent pret
 | White | 416/741 (56%) | 38/58 (66%) | 188/334 (56%) | 96/210 (46%) | 94/139 (68%) |
 | Hispanic ethnicity | 118/750 (16%) | 8/59 (14%) | 63/339 (19%) | 25/214 (12%) | 22/138 (16%) |
 | Maternal age (Years) | 28.0 (24.0,33.0) | 30.0 (25.0,35.0) | 29.0 (24.0,33.0) | 26.0 (23.0,31.0) | 29.0 (24.0,34.0) |
+
+
+
+## Citations
+Watterberg KL, Walsh MC, Li L, Chawla S, et al. Hydrocortisone to Improve Survival without Bronchopulmonary Dysplasia. __N Engl J Med._ 2022 March 24; 386(12): 1121-1131. doi: 10.1056/NEJMoa2114897.
