@@ -11,6 +11,9 @@ Bronchopulmonary dysplasia (BPD) remains a major cause of morbidity in extremely
 ## Objective
 To identify clinically relevant baseline phenotypes in ventilator-dependent preterm infants and evaluate whether outcomes and associations with hydrocortisone vary across phenotypes.
 
+## Design, Setting, and Participants
+Secondary analysis of a multicenter, randomized, double-blind, placebo-controlled trial of infants born at <30 weeks' gestation who remained mechanically ventilated at 14-28 days of life. Among 800 randomized infants, 760 with complete baseline data were included.
+
 ## Baseline Phenotype Characteristics 
 | Phenotype | n infants | Characteristics |
 |-----------|-----------|-----------------|
@@ -40,4 +43,20 @@ To identify clinically relevant baseline phenotypes in ventilator-dependent pret
 
 
 ## Citations
-Watterberg KL, Walsh MC, Li L, Chawla S, et al. Hydrocortisone to Improve Survival without Bronchopulmonary Dysplasia. __N Engl J Med._ 2022 March 24; 386(12): 1121-1131. doi: 10.1056/NEJMoa2114897.
+- Gilfillan M, Bhandari A, Bhandari V. Diagnosis and management of bronchopulmonary dysplasia. BMJ 2021;375:.
+- Lee SM, Sie L, Liu J, Profit J, Lee HC. Evaluation of Trends in Bronchopulmonary Dysplasia and Respiratory Support Practice for Very Low Birth Weight Infants: A Population-Based Cohort Study. J Pediatr 2022;243:47-52.e2.
+- Halbmeijer NM, Onland W, Cools F, Kroon A, Van Der Heide-Jalving M, Dijk P, et al. Short-term pulmonary and systemic effects of hydrocortisone initiated 7-14 days after birth in ventilated very preterm infants: a secondary analysis of a randomised controlled trial. Arch Dis Child Fetal Neonatal Ed 2023;108:F20–F25.
+- Baud O, Trousson C, Biran V, Leroy E, Mohamed D, Alberti C. Association Between Early Low-Dose Hydrocortisone Therapy in Extremely Preterm Neonates and Neurodevelopmental Outcomes at 2 Years of Age. JAMA 2017;317:1329–1337.
+- Jensen EA, Wiener LE, Rysavy MA, Dysart KC, Gantz MG, Eichenwald EC, et al. Assessment of Corticosteroid Therapy and Death or Disability According to Pretreatment Risk of Death or Bronchopulmonary Dysplasia in Extremely Preterm Infants. JAMA Netw Open 2023;6:.
+- Cummings JJ, Pramanik AK; COMMITTEE ON FETUS AND NEWBORN. Postnatal Corticosteroids to Prevent or Treat Chronic Lung Disease Following Preterm Birth. Pediatrics. 2022;149(6):e2022057530. doi:10.1542/peds.2022-057530.
+- Sharma M, Akangire G, Hillman NH, Manimtim WM, Attard MI, Sampath V. Defining endotypes of bronchopulmonary dysplasia in preterm infants to improve precision-based therapies. JCI Insight. 2025;10(20):e193975. Published 2025 Oct 22. doi:10.1172/jci.insight.193975.
+- Moreira AG, Arora T, Arya S, Winter C, Valadie CT, Kwinta P. Leveraging transcriptomics to develop bronchopulmonary dysplasia endotypes: a concept paper. Respir Res. 2023;24(1):284. Published 2023 Nov 15. doi:10.1186/s12931-023-02596-y.
+- Manuck TA, Levy PT, Gyamfi-Bannerman C, Jobe AH, Blaisdell CJ. Prenatal and Perinatal Determinants of Lung Health and Disease in Early Life: A National Heart, Lung, and Blood Institute Workshop Report. JAMA Pediatr. 2016;170(5):e154577. doi:10.1001/jamapediatrics.2015.4577.
+- Ambalavanan N, Deutsch G, Pryhuber G, Travers CP, Willis KA. The evolving pathophysiology of bronchopulmonary dysplasia. Physiol Rev. 2026;106(1):197-237. doi:10.1152/physrev.00042.2024.
+- Durlak W, Thébaud B. The vascular phenotype of BPD: new basic science insights-new precision medicine approaches. Pediatr Res. 2024;96(5):1162-1171. doi:10.1038/s41390-022-02428-7.
+- Eckhardt CM, Madjarova SJ, Williams RJ, Ollivier M, Karlsson J, Pareek A, et al. Unsupervised machine learning methods and emerging applications in healthcare. Knee Surg Sports Traumatol Arthrosc 2023;31:376–381.
+- Wang Y, Zhao Y, Therneau TM, Atkinson EJ, Tafti AP, Zhang N, et al. Unsupervised machine learning for the discovery of latent disease clusters and patient subgroups using electronic health records. J Biomed Inform 2020;102:.
+- Moore WC, Meyers DA, Wenzel SE, Teague WG, Li H, Li X, et al. Identification of asthma phenotypes using cluster analysis in the Severe Asthma Research Program. Am J Respir Crit Care Med 2010;181:315–323.
+- Kindt ASD, Förster KM, Cochius-den Otter SCM, et al. Validation of disease-specific biomarkers for the early detection of bronchopulmonary dysplasia. Pediatr Res. 2023;93(3):625-632. doi:10.1038/s41390-022-02093-w.
+- Pierro M, Villamor-Martinez E, van Westering-Kroon E, Alvarez-Fuente M, Abman SH, Villamor E. Association of the dysfunctional placentation endotype of prematurity with bronchopulmonary dysplasia: a systematic review, meta-analysis and meta-regression. Thorax. 2022;77(3):268-275. doi:10.1136/thoraxjnl-2020-216485.
+- Watterberg KL, Walsh MC, Li L, Chawla S, D’Angio CT, Goldberg RN, et al. Hydrocortisone to Improve Survival without Bronchopulmonary Dysplasia. N Engl J Med 2022;386:1121–1131.
